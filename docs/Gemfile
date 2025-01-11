@@ -1,0 +1,9 @@
+source "https://rubygems.org"
+
+gem "jekyll", "~> 4.3"
+gem "webrick", "~> 1.7" # Required for Ruby 3.x compatibility
+gem "jekyll-theme-minimal" # A theme for your site
+
+# Add any plugins you're using
+gem "jekyll-seo-tag"
+gem "jekyll-feed"
