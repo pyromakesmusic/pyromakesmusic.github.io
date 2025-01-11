@@ -1,4 +1,4 @@
 # pyromakesmusic.github.io
 Projects Page
 
-Hello world
+This README.md file lives outside the docs folder.
