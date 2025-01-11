@@ -1,4 +1,4 @@
 example
 =======
 
-Jekyll example Project site
+pyromakesmusic project site
