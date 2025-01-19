@@ -1,4 +1,5 @@
 # Site settings
+name: pyromakesmusic
 title: pyromakesmusic
 email: pyromakesmusic@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -13,4 +14,5 @@ destination: ./_site
 
 # Build settings
 markdown: kramdown
-permalink: /:year/:title:output_ext
+permalink: /blog/:year/:month/:day/:title
+
