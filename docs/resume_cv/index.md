@@ -3,19 +3,19 @@ layout: default
 title: resume/CV
 ---
 
-# Education
+## Education
 
 - B.S. in Mathematics
 
-# Experience
+## Experience
 
-# Skills
+## Skills
 
 - 3-D modeling
 
-## Software
+### Software
 
-### Suites
+#### Suites
 
 - Office
 - Adobe Creative Suite
@@ -23,7 +23,7 @@ title: resume/CV
 - Unity
 - Ableton Live, Reason, Pro Tools, Reaktor
 
-### Languages
+#### Languages
 
 - Python, C++
 - Bash, PowerShell
