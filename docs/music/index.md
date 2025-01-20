@@ -2,30 +2,34 @@
 layout: page
 title: P¥RO || music
 ---
-<p>Title: While Rome Burns (The Fisher King) [demo]
+Title: While Rome Burns (The Fisher King) [demo]
 
-    Released: December 14, 2023</p>
+Released: December 14, 2023
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5sYHBepFWKPjHPoeVOWquv?utm_source=generator"
         width="100%" height="352" frameBorder="0" allowfullscreen=""
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<p>Title: Sic Semper Tyrannis
+<pTitle: Sic Semper Tyrannis
 
-    Released: October 27, 2020</p>
+Released: October 27, 2020
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/6DT6TfiUDvCRkkIRiEpDYr?utm_source=generator"
         width="100%" height="352" frameBorder="0" allowfullscreen=""
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<p>Title: Yeah Okay But Why Did You Do That Tho
+Title: Yeah Okay But Why Did You Do That Tho
 
-    Released: May 8, 2020</p>
+Released: May 8, 2020
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/1QV3mFExJkAhNowImNsy5J?utm_source=generator"
         width="100%" height="352" frameBorder="0" allowfullscreen=""
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<p>Title: Alpha
+Title: Alpha
 
-    Released: October 13, 2017</p>
+Released: October 13, 2017
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/4Gyusk0OUjthyaQwv8DB5e?utm_source=generator&theme=0"
         width="100%" height="352" frameBorder="0" allowfullscreen=""
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
