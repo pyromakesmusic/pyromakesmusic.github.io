@@ -10,7 +10,7 @@ Released: December 14, 2023
         width="100%" height="352" frameBorder="0" allowfullscreen=""
         allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<pTitle: Sic Semper Tyrannis
+Title: Sic Semper Tyrannis
 
 Released: October 27, 2020
 
