@@ -5,7 +5,6 @@ title: résumé/CV
 
 Education
 ----------
-
 |                                                                                                                                                                                                                                                       |                                     |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------:|
 | **Bachelor of Science in Mathematics**                                                                                                                                                                                                                | *(expected graduation Spring 2026)* |
@@ -15,7 +14,6 @@ Education
 
 Employment
 -----------
-
 |                                                                                                                                                                                                                                                                                                                                    |                           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------:|
 | **Student Researcher**                                                                                                                                                                                                                                                                                                             |  Summer 2022, Summer 2023 |
@@ -27,14 +25,12 @@ Employment
 
 Experience
 ----------
-
 |                                                                                                                                                                                                                                                                                                                                                 |             |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------:|
 | Search and Rescue Team Member                                                                                                                                                                                                                                                                                                                   | 2020 - 2024 |
 | Attended training in search theory, lost person behavior, rescue techniques, and wilderness first aid. Deployed on 2 search operations at the request of local law enforcement agencies. Served as Treasurer for the 2021 fiscal year and managed an approximately $50,000 team budget. Performed sourcing and purchasing for team merchandise. |             |
 | Austin Justice Coalition Volunteer                                                                                                                                                                                                                                                                                                              | 2018 - 2022 |
 | Attended meetings and engaged in social justice work centered around the Brown and Black experience in Austin and central Texas. Wrote literature to help get the word out about issues during the 2022 legislative session.                                                                                                                    |             |
-
 
 Skills
 ------
