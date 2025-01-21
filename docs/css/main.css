@@ -68,5 +68,5 @@ table {
 
 table th, table td {
   word-wrap: break-word; /* Allow content to wrap */
-  min-width: 200px; /* Set a minimum width for cells */
+  min-width: 220px; /* Set a minimum width for cells */
 }
