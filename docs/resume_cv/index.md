@@ -15,19 +15,23 @@ Experience
 Skills
 ------
 
-- 3-D modeling
-
 ### Software
 
-#### Suites
-
-- Office
-- Adobe Creative Suite
-- Blender
-- Unity
-- Ableton Live, Reason, Pro Tools, Reaktor
+- **Suites:** Microsoft Office/Copilot, Google Suite, Tableau/PowerBI, Adobe Creative Suite
+- **3-D Design, Modeling and Simulation:** Blender, Onshape, SimScale, Unity
+- **Audio:** Ableton Live, Reason, Pro Tools, Reaktor
 
 #### Languages
 
-- Python, C++
-- Bash, PowerShell
+- **Programming:** Python, C++, JavaScript, Ruby, node.js
+- **Markup:** HTML/CSS, LaTeX, Markdown
+- **Scripting:** Bash, PowerShell
+
+### Hardware
+- **General:** Drills and impact wrenches, basic automotive/small mechanical maintenance and repair
+- **Metalworking:** Forging (including pneumatic hammers), grinding, power sanding
+- **Electronics:** Breadboarding, multimeters and circuit testing
+
+Credentials
+-----------
+- Certified Personal Trainer (American College of Sports Medicine)
