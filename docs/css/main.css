@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
     background-color: #151515; /* Dark gray background */
+    font-family:'Verdana', 'Arial', 'Sans-Serif';
     color: #eeeeee;
 }
 nav ul, footer ul {
@@ -22,23 +23,23 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    font-size: 3em;
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
-}
-h2 {
-    font-size: 2.5em;
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
-}
-h3 {
-    font-size: 2.25em;
-    font-family:'Verdana', 'Arial', 'Sans-Serif';
-}
-h4 {
     font-size: 2em;
     font-family:'Verdana', 'Arial', 'Sans-Serif';
 }
+h2 {
+    font-size: 2.2em;
+    font-family:'Verdana', 'Arial', 'Sans-Serif';
+}
+h3 {
+    font-size: 2em;
+    font-family:'Verdana', 'Arial', 'Sans-Serif';
+}
+h4 {
+    font-size: 1.8em;
+    font-family:'Verdana', 'Arial', 'Sans-Serif';
+}
 p {
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-family:'Verdana', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
     color: #ffffff;
@@ -50,7 +51,7 @@ footer {
 
 ul.posts {
     margin: 20px auto 40px;
-    font-size: 1.5em;
+    font-size: 1.3em;
     font-family:'Verdana', 'Arial', 'Sans-Serif';
 }
 
