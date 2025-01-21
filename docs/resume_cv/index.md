@@ -1,6 +1,6 @@
 ---
 layout: default
-title: resume/CV
+title: résumé/CV
 ---
 
 Education
