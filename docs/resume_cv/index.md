@@ -3,13 +3,17 @@ layout: default
 title: resume/CV
 ---
 
-## Education
+Education
+---------
 
-- B.S. in Mathematics
+- B.S. in Mathematics *(expected graduation Spring 2026)*
+- A.A.S. in Music Business, Performance and Technology *(graduated fall 2016)*
 
-## Experience
+Experience
+---------
 
-## Skills
+Skills
+------
 
 - 3-D modeling
 
