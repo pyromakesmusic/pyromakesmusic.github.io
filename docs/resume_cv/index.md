@@ -34,4 +34,4 @@ Skills
 
 Credentials
 -----------
-- Certified Personal Trainer (American College of Sports Medicine)
+- **Certified Personal Trainer:** American College of Sports Medicine
