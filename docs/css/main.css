@@ -61,3 +61,12 @@ ul.posts li {
     list-style: none;
     font-family:'Verdana', 'Arial', 'Sans-Serif';
 }
+table {
+  width: 100%; /* Make the table occupy the full width of the container */
+  table-layout: auto; /* Default behavior, adjusts to content */
+}
+
+table th, table td {
+  word-wrap: break-word; /* Allow content to wrap */
+  min-width: 200px; /* Set a minimum width for cells */
+}
