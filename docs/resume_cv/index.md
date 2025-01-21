@@ -7,6 +7,9 @@ Education
 ---------
 
 - B.S. in Mathematics *(expected graduation Spring 2026)*
+    > For a capstone requirement, researched and documented the design of a simulated bionic exoskeleton with voice 
+    > control for search and rescue, and created a software library to help other researchers develop bionic systems 
+    > using fluid muscles.
 - A.A.S. in Music Business, Performance and Technology *(graduated fall 2016)*
 
 Experience
