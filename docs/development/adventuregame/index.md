@@ -21,6 +21,23 @@ var gameMap = [
   ['F', 'F', 'G', 'G', 'G', 'G', 'G', 'D', 'I', 'I'],
   ['O', 'F', 'F', 'F', 'G', 'W', 'G', 'D', 'K', 'C']
 ];
+
+// F = forest
+// X = cave
+// C = castle tower
+// K = castle kitchen
+// I = castle insides
+// W = wizard's cabin
+// S = swamp
+// G = grassy field
+// M = mountain
+// R = river
+// D = road
+// B = bridge
+// O = origin
+/* Each letter represents a different environment. Based on the enemies available to each environment, there is a small 
+chance that any enemy you haven't killed yet will become an encounter in its home environment. Once you kill the enemy 
+for each environment, that environment will no longer trigger enemy encounters. */
 ```
 
 Each letter represents a different type of environment - forest, cave, bridge, castle, and so on. Each environment type
