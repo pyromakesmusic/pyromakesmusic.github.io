@@ -30,13 +30,13 @@ causes the tube to expand, and consequently shorten, with a given predictable fo
 particular setup and set of elements. These types of actuators can be highly biomimetic, conforming to the shape of the 
 user's body. I created a software library designed to use these types of actuators with a particular structured data
 file (a CSV at the moment) that allows the library to calculate various forces given information about a muscle.
-![Diagram of a basic fluid muscle](/assets/images/mckibben.png)
+![Diagram of a basic fluid muscle](assets/images/mckibben.png)
 
 The Klampt library allows robot hardware elements, called "links", to be parents of other links. A parent link can have
 multiple child links, so the most straightforward design for an exoskeleton is a tree, with the head as the base link.
-![Exoskeleton logical structure](/assets/images/X001_structure.png)
+![Exoskeleton logical structure](assets/images/X001_structure.png)
 
 Klampt allows the use of meshes for both visualization and collision. For early prototyping, even relatively simple
 meshes can help to establish that chassis movement is happening in the right directions and at approximately the correct
 angles.
-![Early chassis design](/assets/images/chassis.png)
+![Early chassis design](assets/images/chassis.png)
