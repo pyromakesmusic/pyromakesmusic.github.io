@@ -4,7 +4,7 @@ title: P¥RO || development
 ---
 
 ### Robotics
-- [Powered Exoskeletons](power_armor/)
+- [Powered Exoskeletons](power_armor/): bionic augmentation for emergency and disaster response
 
 ### Software
 
