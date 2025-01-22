@@ -3,6 +3,9 @@ layout: page
 title: P¥RO || development
 ---
 
+### Robotics
+- [Powered Exoskeletons](power_armor/)
+
 ### Software
 
 #### Tools
