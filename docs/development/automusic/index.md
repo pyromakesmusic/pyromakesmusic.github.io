@@ -16,3 +16,5 @@ the 0 index. This is designed for quick conversion to MIDI in the near future.
 Future development plans include allowing the generation of MIDI files from the chord progressions, rhythmic variations,
 integrating the rules of counterpoint to create melodies, key changes, and using chord change probabilities derived from
 popular music rather than simply manipulating chord change probabilities based on number of shared notes.
+
+[View source code on GitHub](https://github.com/pyromakesmusic/automusic)
